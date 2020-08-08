@@ -1,3 +1,42 @@
+React-todo-application-with-es6 is a simple react application for a todo-list application.
+
+The main features of this application.
+
+1. Add new todo items to the existing ones in the list.
+
+2. Update todo item.
+
+3. Delete existing todo list item from the list and render the remaining ones.
+
+
+Tech specs.
+
+This application was created using create-react-app.
+
+The api calls are made using Fetch.
+
+
+Start application.
+
+1. Route into the root folder of the application after downloading
+
+2. Do yarn install 
+
+3. Once packages are installed do 
+
+    yarn start.
+
+   Voila...Your todo list application is up and running.
+
+
+Future testing...
+
+Still needs to learn testing using enzyme or jest.
+
+Need to write and perform test using enzyme or jest.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
