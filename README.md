@@ -29,9 +29,11 @@ Start application.
    Voila...Your todo list application is up and running.
 
 
-Future testing...
+Future Dev and testing...
 
-Still needs to learn testing using enzyme or jest.
+Styling changes if needed.
+
+Seperate out each of update, create(display entire todo list, display todo item, etc. ) and delete component.
 
 Need to write and perform test using enzyme or jest.
 
